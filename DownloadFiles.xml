@@ -5,7 +5,7 @@
     <filename>Update</filename>
     <filetype>exe</filetype>
   </Updater>
-  <FileNumbers>2</FileNumbers>
+  <FileNumbers>1</FileNumbers>
   <File number="0">
     <link>https://github.com/ToniF03/Vocable-Trainer/blob/master/Microsoft.VisualBasic.PowerPacks.dll</link>  
     <filename>Microsoft.VisualBasic.PowerPacks</filename>
