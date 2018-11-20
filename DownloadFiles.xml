@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Downloads>
+  <Updater>
+    <link>https://github.com/ToniF03/Vocable-Trainer/blob/master/Update.exe</link>
+    <filename>Update</filename>
+    <filetype>exe</filetype>
+  </Updater>
   <FileNumbers>2</FileNumbers>
   <File number="0">
     <link>https://github.com/ToniF03/Vocable-Trainer/blob/master/Microsoft.VisualBasic.PowerPacks.dll</link>  
@@ -9,11 +14,6 @@
   <File number="1">
     <link>https://github.com/ToniF03/Vocable-Trainer/blob/master/Vocable%20Trainer.exe</link>
     <filename>Vocable Trainer</filename>
-    <filetype>exe</filetype>
-  </File>
-  <File number="2">
-    <link>https://github.com/ToniF03/Vocable-Trainer/blob/master/Update.exe</link>
-    <filename>Update</filename>
     <filetype>exe</filetype>
   </File>
 </Downloads>
