@@ -7,13 +7,13 @@
   </Updater>
   <FileNumbers>1</FileNumbers>
   <File number="0">
-    <link>https://raw.githubusercontent.com/ToniF03/Vocable-Trainer/master/Microsoft.VisualBasic.PowerPacks.dll</link>  
-    <filename>Microsoft.VisualBasic.PowerPacks</filename>
-    <filetype>dll</filetype>  
-  </File>  
-  <File number="1">
     <link>https://raw.githubusercontent.com/ToniF03/Vocable-Trainer/master/Vocable%20Trainer.exe</link>
     <filename>Vocable Trainer</filename>
     <filetype>exe</filetype>
   </File>
+  <File number="1">
+    <link>https://raw.githubusercontent.com/ToniF03/Vocable-Trainer/master/Microsoft.VisualBasic.PowerPacks.dll</link>  
+    <filename>Microsoft.VisualBasic.PowerPacks</filename>
+    <filetype>dll</filetype>  
+  </File>  
 </Downloads>
